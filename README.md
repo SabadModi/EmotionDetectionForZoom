@@ -10,6 +10,9 @@
 3. Start a Jupyter Notebook session in the project folder
 4. Open the file `EmotionDetection.ipynb`
 
+### **NOTE: PLEASE ONLY ENTER A .wav FILE FOR THE AUDIO**
+### **NOTE: THE PROGRAM ONLY WORKS IN SPEAKER-VIEW RECORDINGS AND NOT GALLERY-VIEW**
+
 ## **How to Run the Program**
 1. Start by running each cell
 2. DO **NOT** run the following cells unless you want to either add more classes(emotions) or retrain the data with a completely new set of images
@@ -19,16 +22,13 @@
 3. Continue running **each** and **every** cell from then onwards
 4. In the following cell, you can change the `filename` variable for the audio file and the path to the zoom recording in `cap = cv2.VideoCapture()`
 
-#### **NOTE: PLEASE ONLY ENTER A .wav FILE FOR THE AUDIO**
-#### **NOTE: THE PROGRAM ONLY WORKS IN SPEAKER-VIEW RECORDINGS AND NOT GALLERY-VIEW**
-
 ## **Features**
 1. Detects the following emotions
-  *Happy
-  *Sad
-  *Attentive
-  *Distracted
-  *Sleepy
+  * Happy
+  * Sad
+  * Attentive
+  * Distracted
+  * Sleepy
 2. Shows the average attention span during the meeting
 3. Shows the most prominent emotion in the meeting
 4. Shows whether a people were sleepy, if so, they were to see the average drowsiness time and recieve tips
