@@ -24,11 +24,11 @@
 
 ## **Features**
 1. Detects the following emotions
-..1. Happy
-..2. Sad
-..3. Attentive
-..4. Distracted
-..5. Sleepy
+⋅⋅1. Happy
+⋅⋅2. Sad
+⋅⋅3. Attentive
+⋅⋅4. Distracted
+⋅⋅5. Sleepy
 2. Shows the average attention span during the meeting
 3. Shows the most prominent emotion in the meeting
 4. Shows whether a people were sleepy, if so, they were to see the average drowsiness time and recieve tips
