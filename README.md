@@ -10,8 +10,8 @@
 3. Start a Jupyter Notebook session in the project folder
 4. Open the file `EmotionDetection.ipynb`
 
-### **NOTE: PLEASE ONLY ENTER A .wav FILE FOR THE AUDIO**
-### **NOTE: THE PROGRAM ONLY WORKS IN SPEAKER-VIEW RECORDINGS AND NOT GALLERY-VIEW**
+#### **NOTE: PLEASE ONLY ENTER A .wav FILE FOR THE AUDIO**
+#### **NOTE: THE PROGRAM ONLY WORKS IN SPEAKER-VIEW RECORDINGS AND NOT GALLERY-VIEW**
 
 ## **How to Run the Program**
 1. Start by running each cell
